@@ -9,7 +9,7 @@ A simple and responsive weather web application built using **HTML, CSS, and Jav
 - API-based weather data fetching.
 - 
 ## 📸 Preview
-![Weather App Screenshot](https://github.com/MANMOHAN4/Quick-Weather/blob/main/Qucik-Weather.png.png?raw=true)
+![Weather App Screenshot](https://github.com/MANMOHAN4/Quick-Weather/blob/main/Qucik-Weather.png?raw=true)
 
 ## ⚙️ Tech Stack
 - **Frontend**: HTML, CSS and JavaScript  
